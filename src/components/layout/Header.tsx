@@ -1,7 +1,9 @@
 import { useMemo } from 'react';
 import { VscHome } from 'react-icons/vsc';
 import { useWindowScroll } from 'react-use';
+
 import clsxm from '@/lib/clsxm';
+
 import HeaderNav from '@/components/layout/HeaderNav';
 import Icon from '@/components/layout/Icon';
 import UnstyledLink from '@/components/links/UnstyledLink';

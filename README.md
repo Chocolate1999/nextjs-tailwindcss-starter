@@ -35,7 +35,6 @@ my template for nextjs and tailwindcss
 - [react-use](https://streamich.github.io/react-use/) - Collection of essential React Hooks.
 - [Recoil](https://recoiljs.org/) - An experimental state management framework for React.
 
-
 ## 🧑‍💻 Contribution
 
 Thank you to all the people who already contributed to my project!
