@@ -1,11 +1,10 @@
 import { useMemo } from 'react';
 import { VscHome } from 'react-icons/vsc';
 import { useWindowScroll } from 'react-use';
-
 import clsxm from '@/lib/clsxm';
-
 import HeaderNav from '@/components/layout/HeaderNav';
 import Icon from '@/components/layout/Icon';
+import UnstyledLink from '@/components/links/UnstyledLink';
 
 export default function Header() {
   const docScroll = useWindowScroll();
@@ -25,9 +24,9 @@ export default function Header() {
     >
       <section className='layout'>
         <div className='mx-8 flex h-[60px] items-center justify-between leading-[60px]'>
-          <a href='/' className='hidden text-[22px] mb:inline'>
+          <UnstyledLink href='/' className='hidden text-[22px] mb:inline'>
             <VscHome />
-          </a>
+          </UnstyledLink>
           <HeaderNav />
           <Icon />
         </div>
