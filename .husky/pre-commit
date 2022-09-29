@@ -3,4 +3,4 @@
 
 npx lint-staged
 yarn lint:strict
-typecheck
+yarn typecheck
