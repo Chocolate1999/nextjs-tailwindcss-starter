@@ -16,7 +16,7 @@ my template for nextjs and tailwindcss
  🧑‍💻👩‍💻👨‍💻
 </p>
 
-## 🚀 use
+## 🚀 Use
 
 ```
 npx degit https://github.com/Chocolate1999/nextjs-tailwindcss-starter.git your-app-name
