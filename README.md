@@ -16,21 +16,16 @@ my template for nextjs and tailwindcss
  🧑‍💻👩‍💻👨‍💻
 </p>
 
-## 🚀 Features
+## 🚀 use
 
-- 📝 MDX support
-- 🦾 TypeScript, of course
-- 🗂 File based routing
-- 🌍 I18n ready
-- ⚙️ Eslint + Prittier
-- 🌓 Dark mode support
-- 🧑‍💻 Continuous renovation
+```
+npx degit https://github.com/Chocolate1999/nextjs-tailwindcss-starter.git your-app-name
+```
 
 ## 🦄 Tech Stack
 
 - [Next.js](https://nextjs.org/) - The React Framework.
 - [Tailwind CSS](https://tailwindcss.com/) - A utility-first CSS framework for rapidly building custom user interfaces.
-- [mdx-bundler](https://github.com/kentcdodds/mdx-bundler) - Compile and bundle your MDX files and their dependencies. FAST.
 - [React 18.x](https://reactjs.org/) - A JavaScript library for building user interfaces.
 - [react-use](https://streamich.github.io/react-use/) - Collection of essential React Hooks.
 - [Recoil](https://recoiljs.org/) - An experimental state management framework for React.
